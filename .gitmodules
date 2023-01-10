@@ -1,0 +1,4 @@
+[submodule "Integrated-Path/od_aaf_custom"]
+	path = Integrated-Path/od_aaf_custom
+	url = git@github.com:Integrated-Path/od_aaf_custom.git
+	branch = master
